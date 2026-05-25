@@ -27,6 +27,7 @@ return [
     '50726f74-6f6e-5061-7373-50726f746f6e' => 'Proton Pass',
     'fdb141b2-5d84-443e-8a35-4698c205a502' => 'KeePassXC',
     'eaecdef2-1c31-5634-8639-f1cbd9c00a08' => 'KeePassDX',
+    '9addb28c-b46f-4402-808f-019651441ff3' => 'KeePassPasskey',
     'cc45f64e-52a2-451b-831a-4edd8022a202' => 'ToothPic Passkey Provider',
     'bfc748bb-3429-4faa-b9f9-7cfa9f3b76d0' => 'iPasswords',
     'b35a26b2-8f6e-4697-ab1d-d44db4da28c6' => 'Zoho Vault',
